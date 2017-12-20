@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by caifangyi on 2017/12/18.
  */
-public class no2AddTwoNumbers {
+public class No2AddTwoNumbers {
 
     /**
      * You are given two non-empty linked lists representing two non-negative integers.

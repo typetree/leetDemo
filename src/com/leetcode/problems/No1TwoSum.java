@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 /**
  * Created by caifangyi on 2017/11/21.
  */
-public class no1TwoSum {
+public class No1TwoSum {
 
     /**
      * Given an array of integers, return indices of the two numbers such that they add up to a specific target.
